@@ -71,6 +71,21 @@ https://zhuanlan.zhihu.com/p/23992890  swool+websocket
 
 https://github.com/chiruom/jquery.danmu.js
 
-
 /************************各种插件************************/
+
+/************************C3D************************/
+C3D:css3d引擎
+坐标系:X向右为正，Z轴向外为正,Y轴向下为正
+      rotationX,向前下为正
+      rotationY,逆时针为正
+/************************C3D************************/
+
+/************************THREEJS************************/
+材质说明:http://m.blog.csdn.net/article/details?id=51417603
+触摸监测制作模仿案例:https://juejin.im/entry/58c0cb452f301e006ba6d7ae
+模型展示遇到的问题(较多关于JSON格式):http://blog.csdn.net/lijunfan1994/article/details/52757869
+(优质)网易游戏描述OBJ模型加载:http://feg.netease.com/archives/301.html
+(优质)网易游戏描述three基础篇:http://feg.netease.com/archives/266.html
+
+/************************THREEJS************************/
 
