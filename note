@@ -81,11 +81,29 @@ C3D:css3d引擎
 /************************C3D************************/
 
 /************************THREEJS************************/
+坐标系:X向右为正，Z轴向外为正，Y轴向上为正
+
 材质说明:http://m.blog.csdn.net/article/details?id=51417603
 触摸监测制作模仿案例:https://juejin.im/entry/58c0cb452f301e006ba6d7ae
 模型展示遇到的问题(较多关于JSON格式):http://blog.csdn.net/lijunfan1994/article/details/52757869
 (优质)网易游戏描述OBJ模型加载:http://feg.netease.com/archives/301.html
 (优质)网易游戏描述three基础篇:http://feg.netease.com/archives/266.html
+Object3D阅读笔记:http://www.jb51.net/article/32861.htm
+material.needsUpdate = true;允许未来更新
+scene.traverse/group.traverse/:遍历包括自身及其子对象（深度优先，遍历完直接children[0]再children[1]）
 
 /************************THREEJS************************/
+
+/************************IDE************************/
+License server :http://blog.csdn.net/ncafei/article/details/53179854
+/************************IDE************************/
+
+
+/************************日常************************/
+安佳
+github/note
+demo/模型加载
+/************************日常************************/
+
+
 
