@@ -103,7 +103,7 @@ opacity：与transparent属性一起使用，取值范围0-1
 transparent：是否透明，为true，则根据opacity渲染物体。
 
 uv贴图:http://blog.csdn.net/heyuchang666/article/details/52626998
-
+纹理:http://blog.csdn.net/ruangong1203/article/details/56016387
 /************************THREEJS************************/
 
 /************************IDE************************/
