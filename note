@@ -83,6 +83,7 @@ C3D:css3d引擎
 /************************C3D************************/
 
 /************************THREEJS************************/
+参照切换皮肤:http://www.caesarstoneus.com/the-visualizer/
 坐标系:X向右为正，Z轴向外为正，Y轴向上为正
         rotationY逆时针为正
         rotationX右手往回为正
@@ -113,6 +114,7 @@ License server :http://blog.csdn.net/ncafei/article/details/53179854
 
 /************************日常************************/
 github/note
+github/mother
 demo/模型加载.....球形天空盒材质2:1
 /************************日常************************/
 
