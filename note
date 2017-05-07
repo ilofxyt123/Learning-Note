@@ -10,6 +10,12 @@ npm install less --save-dev
 npm install -g less-plugin-clean-css
 /************************less************************/
 
+/************************Vue.js************************/
+https://github.com/jirengu-inc/jrg-project-5 从0起步 Vue
+https://jirengu.com/app/album/66 vue 学习TODO
+
+/************************Vue.js************************/
+
 
 /************************uglify-js************************/
 Uglify-js:
@@ -43,7 +49,8 @@ var swiper = new Swiper ('.op-icons .swiper-container',{
             });
 
 var number = $("#phone").val();
-if(!(/^1(3|4|5|7|8)\d{9}$/.test(number))){console.log("请输入正确的手机号!");return;};
+var patt = /^1(3|4|5|7|8)\d{9}$/
+if(!(patt.test(number))){console.log("请输入正确的手机号!");return;};
 
 $("#phone").on("input",function(){
     _self.limitNum($(this)[0]);
@@ -74,6 +81,10 @@ https://zhuanlan.zhihu.com/p/23992890  swool+websocket
 https://github.com/chiruom/jquery.danmu.js
 
 /************************各种插件************************/
+
+/************************jQuery版本3************************/
+jQuery版本3.x : http://www.css88.com/archives/5950
+/************************jQuery版本3************************/
 
 /************************C3D************************/
 C3D:css3d引擎
@@ -115,6 +126,8 @@ License server :http://blog.csdn.net/ncafei/article/details/53179854
 /************************日常************************/
 github/note
 github/mother
+demo/todomvc
+github/template
 demo/模型加载.....球形天空盒材质2:1
 /************************日常************************/
 
