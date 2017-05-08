@@ -13,8 +13,15 @@ npm install -g less-plugin-clean-css
 /************************Vue.js************************/
 https://github.com/jirengu-inc/jrg-project-5 从0起步 Vue
 https://jirengu.com/app/album/66 vue 学习TODO
-简书 http://www.jianshu.com/p/2769efeaa10a
-Vue-cli http://www.qdfuns.com/notes/15904/cad84afddab13604f987cbf511d265e4.html
+
+Vue-cli Github  https://github.com/vuejs/vue-cli
+        简书    http://www.jianshu.com/p/2769efeaa10a
+
+
+
+
+vue.js devTools安装教程: http://www.cnblogs.com/lolDragon/p/6268345.html
+vue.js devTools下载地址: https://github.com/vuejs/vue-devtools
 
 /************************Vue.js************************/
 
@@ -130,6 +137,10 @@ uv贴图:http://blog.csdn.net/heyuchang666/article/details/52626998
 /************************IDE************************/
 License server :http://blog.csdn.net/ncafei/article/details/53179854
 /************************IDE************************/
+
+/************************学习/论坛************************/
+Div.IO 高质量前端资源汇聚  http://div.io/user/fouber#/reg
+/************************学习/论坛************************/
 
 /************************日常************************/
 github/note
