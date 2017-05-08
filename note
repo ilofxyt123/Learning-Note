@@ -13,6 +13,8 @@ npm install -g less-plugin-clean-css
 /************************Vue.js************************/
 https://github.com/jirengu-inc/jrg-project-5 从0起步 Vue
 https://jirengu.com/app/album/66 vue 学习TODO
+简书 http://www.jianshu.com/p/2769efeaa10a
+Vue-cli http://www.qdfuns.com/notes/15904/cad84afddab13604f987cbf511d265e4.html
 
 /************************Vue.js************************/
 
@@ -71,15 +73,22 @@ http://m.sui.taobao.org/
 
 /************************各种插件************************/
 EXIF:图片转置
-https://github.com/exif-js/exif-js
+    https://github.com/exif-js/exif-js
 
 弹幕系统:
-http://he29.com/index/test
-http://www.cnblogs.com/ryanlamp/p/6127235.html  配置介绍
-https://zhuanlan.zhihu.com/p/23992890  swool+websocket
+    http://he29.com/index/test
+    http://www.cnblogs.com/ryanlamp/p/6127235.html  配置介绍
+    https://zhuanlan.zhihu.com/p/23992890  swool+websocket
 
-https://github.com/chiruom/jquery.danmu.js
+    https://github.com/chiruom/jquery.danmu.js
 
+Box2D:
+    官网     http://box2d-js.sourceforge.net/
+         http://box2d.org/
+    API      http://www.kyucon.com/doc/box2d/
+    Github:  https://github.com/erincatto/Box2D
+    pdf:     http://box2d.org/manual.pdf
+各种jq插件:http://www.dowebok.com/code/page/3
 /************************各种插件************************/
 
 /************************jQuery版本3************************/
@@ -122,14 +131,14 @@ uv贴图:http://blog.csdn.net/heyuchang666/article/details/52626998
 License server :http://blog.csdn.net/ncafei/article/details/53179854
 /************************IDE************************/
 
-
 /************************日常************************/
 github/note
 github/mother
-demo/todomvc
 github/template
 demo/模型加载.....球形天空盒材质2:1
 /************************日常************************/
+
+
 
 
 
