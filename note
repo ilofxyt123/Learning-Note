@@ -134,9 +134,10 @@ uv贴图:http://blog.csdn.net/heyuchang666/article/details/52626998
 纹理:http://blog.csdn.net/ruangong1203/article/details/56016387
 /************************THREEJS************************/
 
-/************************IDE************************/
+/************************开发工具************************/
 License server :http://blog.csdn.net/ncafei/article/details/53179854
-/************************IDE************************/
+控制台调试技巧: http://www.cnblogs.com/52cik/p/js-console-acquaintance.html
+/************************开发工具************************/
 
 /************************学习/论坛************************/
 Div.IO 高质量前端资源汇聚  http://div.io/user/fouber#/reg
@@ -145,8 +146,8 @@ Div.IO 高质量前端资源汇聚  http://div.io/user/fouber#/reg
 /************************日常************************/
 github/note
 github/mother
-github/template
-demo/模型加载.....球形天空盒材质2:1
+
+demo/模型加载.....写法改动
 /************************日常************************/
 
 
