@@ -109,6 +109,9 @@ C3D:css3d引擎
       rotationY,逆时针为正
 /************************C3D************************/
 
+
+
+
 /************************THREEJS************************/
 参照切换皮肤:http://www.caesarstoneus.com/the-visualizer/
 坐标系:X向右为正，Z轴向外为正，Y轴向上为正
@@ -122,7 +125,7 @@ C3D:css3d引擎
 (优质)网易游戏描述OBJ模型加载:http://feg.netease.com/archives/301.html
 (优质)网易游戏描述three基础篇:http://feg.netease.com/archives/266.html
 Object3D阅读笔记:http://www.jb51.net/article/32861.htm
-THREEJS源码阅读(材质篇非常详细):http://blog.csdn.net/birdflyto206/article/details/52414245
+THREEJS源码阅读(材质篇非常详细 kingW_):http://blog.csdn.net/birdflyto206/article/details/52414245
 
 overdraw：如果使用THREE.CanvasRenderer渲染物体的时候，多边形会被渲染的大一点。当用这个渲染器画出的物体有间隙时，这时候将该属性设置为true。
 material.needsUpdate = true;材质一般存储在缓存中，对于材质的某些修改，只有设置该属性为true，Three.js库才会使用新的材质去刷新材质的缓存。
@@ -135,6 +138,10 @@ uv贴图:http://blog.csdn.net/heyuchang666/article/details/52626998
 
 案例，滑动改变视角http://special.mercedes-benz.com.cn/amg-50-years/mobile/index.html
 /************************THREEJS************************/
+
+
+
+
 
 /************************开发工具************************/
 License server :http://blog.csdn.net/ncafei/article/details/53179854
@@ -150,6 +157,7 @@ github/note
 github/mother
 
 demo/模型加载.....写法改动
+生迪
 /************************日常************************/
 
 
