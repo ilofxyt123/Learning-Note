@@ -119,6 +119,14 @@ C3D:css3d引擎
         rotationX右手往回为正
         rotationZ逆时针为正
 
+文件说明:
+    1.stats.min.js:用于性能检测
+    2.dat.gui.js:用于创建菜单栏，可以用来控制场景中的各个参数来调试场景
+
+对应关系:
+    Geometry -> ParticleSystem(WebGLRenderer)
+    Material -> ParticleBasicMaterial
+
 材质说明:http://m.blog.csdn.net/article/details?id=51417603
 触摸监测制作魔方案例:https://juejin.im/entry/58c0cb452f301e006ba6d7ae
 模型展示遇到的问题(较多关于JSON格式):http://blog.csdn.net/lijunfan1994/article/details/52757869
@@ -126,6 +134,12 @@ C3D:css3d引擎
 (优质)网易游戏描述three基础篇:http://feg.netease.com/archives/266.html
 Object3D阅读笔记:http://www.jb51.net/article/32861.htm
 THREEJS源码阅读(材质篇非常详细 kingW_):http://blog.csdn.net/birdflyto206/article/details/52414245
+THREEJS源码阅读(粒子篇非常详细 kingW_):http://blog.csdn.net/birdflyto206/article/details/52414326
+
+
+CSDN源码阅读之dat.gui.js(作者——my_mystery)：http://blog.csdn.net/u014658748/article/details/51780727
+CSDN源码阅读之物理模型碰撞检测(作者——my_mystery)：http://blog.csdn.net/u014658748/article/details/51781705
+CSDN源码阅读之光源(作者Newpidian女前端):http://blog.csdn.net/newpidian/article/details/51348410
 
 overdraw：如果使用THREE.CanvasRenderer渲染物体的时候，多边形会被渲染的大一点。当用这个渲染器画出的物体有间隙时，这时候将该属性设置为true。
 material.needsUpdate = true;材质一般存储在缓存中，对于材质的某些修改，只有设置该属性为true，Three.js库才会使用新的材质去刷新材质的缓存。
@@ -136,7 +150,8 @@ transparent：是否透明，为true，则根据opacity渲染物体。
 uv贴图:http://blog.csdn.net/heyuchang666/article/details/52626998
 纹理:http://blog.csdn.net/ruangong1203/article/details/56016387
 
-案例，滑动改变视角http://special.mercedes-benz.com.cn/amg-50-years/mobile/index.html
+案例AMG：http://special.mercedes-benz.com.cn/amg-50-years/mobile/index.html
+案例维密：http://omgmkt.qq.com/vs2016/?from=groupmessage
 /************************THREEJS************************/
 
 
@@ -146,10 +161,14 @@ uv贴图:http://blog.csdn.net/heyuchang666/article/details/52626998
 /************************开发工具************************/
 License server :http://blog.csdn.net/ncafei/article/details/53179854
 控制台调试技巧: http://www.cnblogs.com/52cik/p/js-console-acquaintance.html
+网易FEG前端团队学习笔记——做有态度的前端团队http://feg.netease.com/
 /************************开发工具************************/
 
 /************************学习/论坛************************/
 Div.IO 高质量前端资源汇聚  http://div.io/user/fouber#/reg
+网易前端学习笔记——简书：http://www.jianshu.com/p/4ce1708ea072
+
+腾讯游戏前端团队3D粒子：http://tgideas.qq.com/webplat/info/news_version3/804/7104/7106/m5723/201704/577405.shtml?from=groupmessage
 /************************学习/论坛************************/
 
 /************************日常************************/
