@@ -124,9 +124,18 @@ C3D:css3d引擎
     2.dat.gui.js:用于创建菜单栏，可以用来控制场景中的各个参数来调试场景
 
 对应关系:
-    Geometry -> ParticleSystem(WebGLRenderer)
-    Material -> ParticleBasicMaterial
+    Geometry -> THREE.Geometry
+    Material -> THREE.ParticleBasicMaterial
+    Mesh -> THREE.ParticleSystem(WebGLRenderer)
 
+    Geometry ->
+    Material -> THREE.ParticleCanvasMaterial
+    Mesh -> THREE.Particle
+
+    Geometry ->
+    Material -> THREE.SpriteMaterial
+    Mesh -> THREE.Sprite
+CSDN开发实战:http://m.blog.csdn.net/article/details?id=52156327
 材质说明:http://m.blog.csdn.net/article/details?id=51417603
 触摸监测制作魔方案例:https://juejin.im/entry/58c0cb452f301e006ba6d7ae
 模型展示遇到的问题(较多关于JSON格式):http://blog.csdn.net/lijunfan1994/article/details/52757869
@@ -173,9 +182,7 @@ Div.IO 高质量前端资源汇聚  http://div.io/user/fouber#/reg
 
 /************************日常************************/
 github/note
-github/mother
 
-demo/模型加载.....写法改动
 生迪
 /************************日常************************/
 
