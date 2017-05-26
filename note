@@ -74,6 +74,17 @@ $("#phone").on("input",function(){
     _self.limitNum($(this)[0]);
 });
 
+canvasAPI测试:
+    var canvas = document.createElement("canvas"),
+        ctx = canvas.getContext("2d"),
+        w = window.innerWidth,
+        h = window.innerHeight;
+
+        canvas.width = w;
+        canvas.height = h;
+        var logo = document.getElementById("logopic");
+        ctx.drawImage(logo,0,0,logo.width,logo.height,50,50,logo.width,logo.height);
+        var ImageData = ctx.getImageData(0,0,canvas.width,canvas.height)
 /************************js代码段************************/
 
 /************************移动端ui框架************************/
@@ -200,13 +211,15 @@ latitude:纬度
 
 动态网格动画:http://codepen.io/dudleystorey/pen/NbNjjX
 3D转2D:http://blog.163.com/figo_2007@126/blog/static/23180765201052835659523/
+
+VUE现状：https://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247485226&idx=1&sn=bf689a9f95904dea3c073d7c86efc729&chksm=972365e8a054ecfe04ad1edf9847b71e3faeb3d9a3d2af33707f4a1a32940838a7714769a1bc&ptlang=2052&source&ADUIN=455171468&ADSESSION=1495759402&ADTAG=CLIENT.QQ.5521_.0&ADPUBNO=26675#rd
+webpack中文文档：https://doc.webpack-china.org/
 /************************学习/论坛************************/
 
 /************************日常************************/
 github/note
-
-生迪
 CanvasAniamtion
+demo/webpack-demo
 /************************日常************************/
 
 
