@@ -188,6 +188,8 @@ sengled连接:http://sengled.i-creative.cn/index.html
 银河系:http://stars.chromeexperiments.com/
 
 dat.gui:http://www.cnblogs.com/xiaoniuzai/p/6685556.html
+音频采样：http://www.cnblogs.com/Wayou/p/html5_audio_api_visualizer.html
+
 /************************THREEJS************************/
 
 /************************webpack************************/
@@ -198,6 +200,7 @@ npm install extract-text-webpack-plugin --save-dev
 npm install file-loader css-loader style-loader sass-loader ejs-loader html-loader jsx-loader image-webpack-loader --save-dev
 
 图片的路径与打包:http://www.cnblogs.com/ghost-xyx/p/5812902.html
+公用模块抽离：https://segmentfault.com/q/1010000008302736/a-1020000008336351
 /************************webpack************************/
 
 /************************Tracking.js************************/
