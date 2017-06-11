@@ -17,7 +17,9 @@ https://jirengu.com/app/album/66 vue 学习TODO
 Vue-cli Github  https://github.com/vuejs/vue-cli
         简书    http://www.jianshu.com/p/2769efeaa10a
 
+        npm install --global vue-cli
 
+        vue init webpack vuetest
 
 
 vue.js devTools安装教程: http://www.cnblogs.com/lolDragon/p/6268345.html
