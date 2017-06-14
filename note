@@ -25,6 +25,10 @@ Vue-cli Github  https://github.com/vuejs/vue-cli
 vue.js devTools安装教程: http://www.cnblogs.com/lolDragon/p/6268345.html
 vue.js devTools下载地址: https://github.com/vuejs/vue-devtools
 
+http://coding.imooc.com/class/74.html
+http://pan.baidu.com/s/1sla0f5j 
+z34h
+
 /************************Vue.js************************/
 
 
@@ -246,6 +250,7 @@ flex布局（阮一峰）:http://www.ruanyifeng.com/blog/2015/07/flex-grammar.ht
 /************************日常************************/
 github/note
 demo/模型加载
+iCreative
 
 var tryTimes = 0;
 var clock = setInterval(function(){
