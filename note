@@ -247,6 +247,26 @@ source-map:https://segmentfault.com/a/1190000008315937
 flex布局（阮一峰）:http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?utm_source=tuicool
 /************************学习/论坛************************/
 
+/************************主流机型屏幕************************/
+安卓:
+window.screen.width 360
+window.screen.height 640
+window.innerWidth 360
+window.innerHeight 572
+bar 68 占比 10.625%
+
+ios
+window.screen.width 375
+window.screen.height 667
+window.innerWidth 375
+window.innerHeight 596
+bar 占比10.625%
+
+设计稿640 1040
+实际750 对应 1334 innerHeight 1192
+    640 对应 1138 innerHeight 1017
+/************************主流机型屏幕************************/
+
 /************************日常************************/
 github/note
 demo/模型加载
