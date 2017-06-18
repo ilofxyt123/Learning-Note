@@ -25,9 +25,13 @@ Vue-cli Github  https://github.com/vuejs/vue-cli
 vue.js devTools安装教程: http://www.cnblogs.com/lolDragon/p/6268345.html
 vue.js devTools下载地址: https://github.com/vuejs/vue-devtools
 
+vue-router:https://router.vuejs.org/zh-cn/
+
 http://coding.imooc.com/class/74.html
 http://pan.baidu.com/s/1sla0f5j 
 z34h
+
+stylus中文文档:http://www.zhangxinxu.com/jq/stylus/
 
 /************************Vue.js************************/
 
@@ -195,7 +199,7 @@ sengled连接:http://sengled.i-creative.cn/index.html
 
 dat.gui:http://www.cnblogs.com/xiaoniuzai/p/6685556.html
 音频采样：http://www.cnblogs.com/Wayou/p/html5_audio_api_visualizer.html
-
+耐克游戏:https://a.nike.com.cn/fast/
 /************************THREEJS************************/
 
 /************************webpack************************/
@@ -245,6 +249,9 @@ webpack中文文档：https://doc.webpack-china.org/
 source-map:https://segmentfault.com/a/1190000008315937
 
 flex布局（阮一峰）:http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?utm_source=tuicool
+
+字体图标:https://icomoon.io/
+
 /************************学习/论坛************************/
 
 /************************主流机型屏幕************************/
@@ -266,6 +273,18 @@ bar 占比10.625%
 实际750 对应 1334 innerHeight 1192
     640 对应 1138 innerHeight 1017
 /************************主流机型屏幕************************/
+
+
+/************************es6************************/
+http://es6.ruanyifeng.com/
+https://segmentfault.com/a/1190000004365693
+/************************es6************************/
+
+/************************白鹭************************/
+TypeScript:http://bbs.egret.com/thread-1441-1-1.html
+/************************白鹭************************/
+
+
 
 /************************日常************************/
 github/note
