@@ -395,8 +395,14 @@ github:
 /************************AnimateCC************************/
 
 /************************TweenMax************************/
-
+中文文档:
     http://blog.zengrong.net/post/1125.html
+性能比较:
+    http://www.greensock.com/js/speed.html
+入门视频:
+    https://greensock.com/get-started-js
+TimelineLite:
+    https://greensock.com/sequence-video
 /************************TweenMax************************/
 
 
