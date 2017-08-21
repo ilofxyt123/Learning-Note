@@ -339,28 +339,40 @@ touch.js:
 腾讯视频接口:
     http://v.qq.com/open/doc/tvpapi2.0.pdf
 
+https://mp.weixin.qq.com/s?__biz=MzA5Njc3Njk5NA==&mid=2650529240&idx=1&sn=82e734230da78e4dce5bdd9a5edcadc8&chksm=88a59b95bfd212833953430c8f7a758aa9f24ff6805917272e54363f1bb06ebad3e8c5d2c3be&mpshare=1&scene=23&srcid=0807OXlkabSvYfHVmTib9OP4#rd
+
 /************************学习/论坛************************/
 
 /************************主流机型屏幕************************/
 安卓:
+    竖屏
     window.screen.width 360
     window.screen.height 640
     window.innerWidth 360
     window.innerHeight 572
     bar 68 占比 10.625%
 
+    横屏:
+     window.screen.width 640
+     window.screen.height 360
+     window.innerWidth 640
+     window.innerHeight 292
+     bar 68 占比 10.625%
+
 ios
     window.screen.width 375
     window.screen.height 667
     window.innerWidth 375
     window.innerHeight 596
-    bar 占比10.625%
+    bar 68
 
 设计稿640 1040
 
 实际可视区域:
     750 对应 1334 innerHeight 1192
     640 对应 1138 innerHeight 1017
+
+
 /************************主流机型屏幕************************/
 
 
